@@ -1,6 +1,6 @@
-<!-- Matrix-style animated banner -->
+<!-- Cool Typing with Data Visualization GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif" alt="Matrix Code" width="100%" height="250">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Typing with Data Visualizations" width="800"/>
 </p>
 
 <h1 align="center">💻 Louis Ampobi</h1>
