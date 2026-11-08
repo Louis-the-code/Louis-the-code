@@ -30,3 +30,34 @@ class Louis:
 me = Louis()
 me.say_hi()
 ```
+
+---
+
+## 🚀 What I'm building
+
+| Project | What it does | Built with |
+|---|---|---|
+| 🎧 [**Vibely Music Project**](https://github.com/Louis-the-code/vibely-music-project) | AI-assisted music production for FL Studio: auto-built mixer, routing and genre presets. AI does the setup, humans make the music. | Python · FL Studio scripting |
+| 📖 [**WavyPDF (PDF to Audio)**](https://github.com/Louis-the-code/PDF-to-Audio) | Turns any PDF into a narrated audiobook with Gemini AI text-to-speech. | TypeScript · Gemini · Supabase |
+
+## 📊 Data projects
+
+| Project | Question it answers |
+|---|---|
+| 💻 [**Laptop price analysis**](https://github.com/Louis-the-code/Final-Project) | Which laptop brands and specs give the best value for money? |
+| 🧪 [**Vanguard A/B test**](https://github.com/Louis-the-code/vanguard-project) | Did a new website design actually raise completion rates? (321k records) |
+
+## 🛠️ Tools I use
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+
+## 📫 Get in touch
+
+[![X](https://img.shields.io/badge/X-@StLouisthegreat-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/StLouisthegreat)
