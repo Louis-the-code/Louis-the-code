@@ -60,4 +60,5 @@ me.say_hi()
 
 ## 📫 Get in touch
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Louis%20Ampobi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louis-ampobi/)
 [![X](https://img.shields.io/badge/X-@StLouisthegreat-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/StLouisthegreat)
